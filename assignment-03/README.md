@@ -8,11 +8,5 @@ This week, there were many small details to keep track of, making it important t
 * Patience
 * Accuracy
 
-<!-- URL -->
-[NY Times](https://www.nytimes.com)
-
-<!-- reponses -->
-[Responses](responses.txt)
-
 <!-- screenshot image -->
 ![Screen shot](/images/screenshot-vscode.png)
