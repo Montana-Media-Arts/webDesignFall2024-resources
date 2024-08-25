@@ -1,10 +1,12 @@
 # Assignment 3
 
-## Cory McKague
+## Brittany Westlund
 
-* I have learned to stop and enjoy the process
-* I have learned to learn a little each day
-* I have learned that learning comes in different ways.
+This week, there were many small details to keep track of, making it important to stay focused. I had to be patient and methodical to ensure everything was done accurately. Next week, I'll keep in mind:
+
+* Focus
+* Patience
+* Accuracy
 
 <!-- URL -->
 [NY Times](https://www.nytimes.com)
