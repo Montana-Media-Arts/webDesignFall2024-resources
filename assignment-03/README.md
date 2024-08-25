@@ -7,3 +7,5 @@ This week, there were **many** small details to keep track of, making it importa
 1. Focus
 2. Patience
 3. Accuracy
+
+![Screenshot](images/screenshot-vscode.png)
