@@ -9,4 +9,4 @@ This week, there were many small details to keep track of, making it important t
 * Accuracy
 
 <!-- screenshot image -->
-![Screen shot](/images/screenshot-vscode.png)
+![Screen shot](assignment-03/images/screenshot-vscode.png)
